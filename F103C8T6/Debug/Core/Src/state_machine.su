@@ -1,0 +1,2 @@
+state_machine.c:11:9:getState	4	static
+state_machine.c:16:6:setState	16	static

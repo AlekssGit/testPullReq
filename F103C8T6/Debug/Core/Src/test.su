@@ -1,0 +1,4 @@
+test.c:11:6:all_leds_on	8	static
+test.c:21:6:all_leds_off	8	static
+test.c:32:6:all_segments_on	8	static
+test.c:42:6:all_segments_off	8	static
